@@ -85,6 +85,7 @@ header {
 }
 
 input[type=text], input[type=date] {
+    font-family: Raleway, sans-serif;
     background: #F5F1FF;
     border: 2px solid #9475EA;
     border-radius: 8px;
