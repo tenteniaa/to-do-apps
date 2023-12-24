@@ -84,7 +84,7 @@ header {
     box-shadow: 0 5px 10px rgba(154, 160, 185, .05), 0 15px 40px rgba(166, 173, 201, .2);
 }
 
-input[type=text], input[type=date] {
+.form-title input {
     font-family: Raleway, sans-serif;
     background: #F5F1FF;
     border: 2px solid #9475EA;
